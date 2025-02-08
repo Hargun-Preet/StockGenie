@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+yfinance
+keras
+streamlit
+pymongo
+bcrypt
+scikit-learn
+requests
+streamlit-option-menu
+pillow
