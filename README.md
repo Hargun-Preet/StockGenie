@@ -1,6 +1,6 @@
 # 📈 StockGenie – AI-Powered Stock Trend Prediction App
 
-**StockGenie** is a smart and modern stock prediction web app that leverages machine learning to forecast trends and deliver real-time financial insights. Whether you're an investor or an enthusiast, StockGenie makes it easy to analyze stocks, convert currencies, and stay updated with stock-related news — all in one sleek, responsive interface.
+**StockGenie** is a smart and modern stock prediction web app that leverages an LSTM neural network and machine learning to forecast trends and deliver financial insights. Whether you're an investor or an enthusiast, StockGenie makes it easy to analyze stocks, convert currencies, and stay updated with stock-related news — all in one sleek, responsive interface.
 
 ## 📹 Demo Video
 
